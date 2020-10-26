@@ -1,0 +1,65 @@
+commit 263534cde88e1b3529f728447a3eb2f8a384fdc4
+Author: root <root@ip-172-31-18-122.ec2.internal>
+Date:   Thu Oct 22 08:41:04 2020 +0000
+
+    dynamic package.sh
+
+commit 7273c935dc189f1eb805aaa8a3a019a4bcc97c52
+Author: root <root@ip-172-31-18-122.ec2.internal>
+Date:   Wed Oct 21 19:47:08 2020 +0000
+
+    u
+
+commit 33e671d629a7cc67ac4817b7fb2c672efbcd9a99
+Author: root <root@ip-172-31-93-248.ec2.internal>
+Date:   Mon Oct 19 17:40:00 2020 +0000
+
+    shell file added
+
+commit 29f2d2301f5a298efa11c097bc19b4e045eaf191
+Merge: df4ef24 8c37022
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 21:18:38 2020 +0530
+
+    Merge pull request #2 from Sandhya-Azure-Devops/dev
+    
+    Create onedev.txt
+
+commit 8c37022cc2e69864a90dbe8f0c81a4ca49f4418f
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 21:18:00 2020 +0530
+
+    Create onedev.txt
+
+commit df4ef2412506c2518635d6f5e49c6e34ceb6053c
+Merge: 668d71b 652a3a0
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 19:56:02 2020 +0530
+
+    Merge pull request #1 from Sandhya-Azure-Devops/dev
+    
+    Create sfdctxt3.html
+
+commit 652a3a0239ded3c0f337797f8609db1c159f15a0
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 19:31:26 2020 +0530
+
+    Create sfdctxt3.html
+
+commit 668d71b332f83907129c797afd8ac140864a354c
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 19:30:22 2020 +0530
+
+    Create sfdctext2.html
+
+commit c0ad1905cfc4369461601953f51306c7277951bd
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 19:29:38 2020 +0530
+
+    Create testsfdc.txt
+
+commit 8b0258d00a12a4af6a904ac036e7a0f162bec7d1
+Author: sandhya1-maker <66767387+sandhya1-maker@users.noreply.github.com>
+Date:   Sun Oct 18 19:26:22 2020 +0530
+
+    Initial commit
